@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @JosueHTML2
-- 👀 I’m interested in copy any code HTML
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on my date   rfffrf
-- 📫 How to reach me nd
+
+- 📫 How to reach me = ***josueapelao00@gmail.com***
 
 
 <!---
