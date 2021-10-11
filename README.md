@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 :white_circle: ***I´ have //{} years***
 
-:yellow_circle: ***HTML AND (JS  +/-) ***
+:yellow_circle: ***HTML AND (JS  +/-) that***
+  
