@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 :yellow_circle: ***HTML e (JS  +/-)***
 
-:black_circle: ***I'm learn english and everydays a tryning HTML***
+:black_circle: ***I'm learn english and Javascript everydays a training HTML***
 
 :white_circle: ***I´ have //{} years***
 
-:yellow_circle: ***HTML AND (JS  +/-) that***
+:yellow_circle: ***HTML AND (JS  +/-)***
   
