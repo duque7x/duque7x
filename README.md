@@ -1,4 +1,4 @@
-**Ola, meu nome é *Josué* eu tenho 15 anos, e entrei na area da programação neste ano.***
+`👋🏻`**Olá, meu nome é *Josué* eu tenho 15 anos, e entrei na area da programação neste ano.**
 **Tento o meu *melhor* .**
 **Treino todos os dias para u dia ser o melhor.**
 
