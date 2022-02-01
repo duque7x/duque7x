@@ -1,8 +1,6 @@
-# Olá meu amigo
+<h2>Hello my name is Josue</h2>
 
-<h2>Meu nome é Josué mais.</h2>
-
-<h3>Sou programador em: JavaScript, Java e TypeScript</h3>
+<h3>I've got learn about JavaScript, Typescript, Java, Python.</h3>
 
 <a href="https://discord.gg/Cs3b2KPwFb">Meu discord</a>
 
