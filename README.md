@@ -3,7 +3,7 @@
 ### Sobre o projeto 🚀  
 Atualmente, estou desenvolvendo um **bot** voltado para apostas de *Free Fire*.  
 
-✅ O bot facilita a organização das apostas, agilizando o processo e economizando tempo para os jogadores.  
+✅ O bot facilita a organização das filas, agilizando o processo e economizando tempo para os jogadores.  
 
 ---
 
