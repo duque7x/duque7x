@@ -1,4 +1,4 @@
-# Olá, meu nome é Josue! 👋  
+# Olá, meu nome é! 👋  
 
 ### Sobre o projeto 🚀  
 Atualmente, estou desenvolvendo um **bot** voltado para apostas de *Free Fire*.  
@@ -13,3 +13,5 @@ Atualmente, estou desenvolvendo um **bot** voltado para apostas de *Free Fire*.
 - 🎯 Focado na comunidade de *Free Fire*  
 
 Siga o repositório para acompanhar as atualizações! 😊  
+
+> chat gpt
