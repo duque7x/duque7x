@@ -14,4 +14,3 @@ Atualmente, estou desenvolvendo um **bot** voltado para apostas de *Free Fire*.
 
 Siga o repositório para acompanhar as atualizações! 😊  
 
-> chat gpt
